@@ -4,7 +4,7 @@ set -xeuo pipefail
 export VLLM_USE_V1=1
 
 project_name='FAPO'
-exp_name='FAPO-Baseline-7B'
+exp_name='FAPO-7B'
 
 adv_estimator=grpo
 
